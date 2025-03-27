@@ -7,7 +7,7 @@
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavib013&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p> 
-<img align="right" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">  
+ <img align="right" width="400" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 
 ### **📝 About Me**  
 🔹 **AI/ML Lead @ Google Developer Group**  
@@ -54,6 +54,13 @@
   <img src="https://github-profile-trophy.vercel.app/?username=vaishnavib013&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </p>
 
+---
+📌 Contributions Overview
+Total Contributions:
+
+Current Streak:
+
+Longest Streak: 🔥 Check the streak section above!
 ---
 
 ### **🚀 Notable Projects**
