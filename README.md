@@ -1,16 +1,73 @@
 ## Hi there 👋
 
-<!--
-**vaishnavib013/vaishnavib013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### **🚀 Vaishnavi Badjate | Data Science & AI Enthusiast**  
+🌟 **B.Tech | 3rd Year | Sanjivani College of Engineering, Kopargaon**  
+👩‍💻 **Technical Skills:** Python | NLP | Web Development | C++ | SQL  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<img align="right" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">  
+
+### **📝 About Me**  
+🔹 **AI/ML Lead @ Google Developer Group**  
+🔹 **TNP Coordinator | Event Management & Leadership**  
+🔹 **Executive Member @ ACES, CSI, SAC**  
+🔹 **Anchored @ Sanjivani Alumni Relation Cell (SARC)**  
+🔹 **Passionate about Data Science, Machine Learning, Artificial Intelligence, and Generative AI**  
+
+---
+
+### **🌍 Connect with Me**
+📫 **Email:** [vaishnavibadjate13@gmail.com](mailto:vaishnavibadjate13@gmail.com)  
+🔗 **LinkedIn:** [Vaishnavi Badjate](https://www.linkedin.com/in/vaishnavi-badjate-400468256/)  
+📸 **Instagram:** [@vaishnavi_badjate](https://www.instagram.com/vaishnavi_badjate/)  
+💻 **CodeChef:** [vaishnavib13](https://www.codechef.com/users/vaishnavib13)  
+🏆 **HackerRank:** [vaishnavibadjat1](https://www.hackerrank.com/profile/vaishnavibadjat1)  
+
+---
+
+### **💻 Tech Stack & Tools**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-%23F7DF1E.svg?style=for-the-badge&logo=sqlite&logoColor=black)  
+![NLP](https://img.shields.io/badge/NLP-%230C55A5.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  
+![Machine Learning](https://img.shields.io/badge/MachineLearning-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
+
+---
+
+### **📊 GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VaishnaviBadjate&show_icons=true&locale=en&theme=tokyonight" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaishnaviBadjate&theme=tokyonight" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VaishnaviBadjate&show_icons=true&locale=en&layout=compact&theme=radical" width="400"/>
+</p>
+
+---
+
+### **🏆 GitHub Trophies**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VaishnaviBadjate&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+</p>
+
+---
+
+### **🚀 Notable Projects**
+🔹 **[AI-Based Eco-Friendly Car Interior Recommender](https://github.com/VaishnaviBadjate/eco-car-ai)** *(Under Development)*  
+🔹 **[Business Management Web App](https://github.com/VaishnaviBadjate/business-manager)** *(Tracking customer payments & records)*  
+🔹 **[College Cutoff Data Science Project](https://github.com/VaishnaviBadjate/college-cutoff-ds)** *(Predicting engineering cutoffs using ML)*  
+
+---
+
+### **💡 Let's Collaborate!**
+📢 Open to discussions, research collaborations, AI/ML projects, and hackathons!  
+
+---
+
+🔗 **[Visit My GitHub Profile](https://github.com/VaishnaviBadjate)** 🌟  
+
+---
