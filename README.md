@@ -55,20 +55,6 @@
 </p>
 
 ---
-📌 Contributions Overview
-Total Contributions:
-
-Current Streak:
-
-Longest Streak: 🔥 Check the streak section above!
----
-
-### **🚀 Notable Projects**
-🔹 **[AI-Based Eco-Friendly Car Interior Recommender](https://github.com/VaishnaviBadjate/eco-car-ai)** *(Under Development)*  
-🔹 **[Business Management Web App](https://github.com/VaishnaviBadjate/business-manager)** *(Tracking customer payments & records)*  
-🔹 **[College Cutoff Data Science Project](https://github.com/VaishnaviBadjate/college-cutoff-ds)** *(Predicting engineering cutoffs using ML)*  
-
----
 
 ### **💡 Let's Collaborate!**
 📢 Open to discussions, research collaborations, AI/ML projects, and hackathons!  
