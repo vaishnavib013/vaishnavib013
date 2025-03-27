@@ -42,16 +42,16 @@
 
 ### **📊 GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VaishnaviBadjate&show_icons=true&locale=en&theme=tokyonight" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaishnaviBadjate&theme=tokyonight" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VaishnaviBadjate&show_icons=true&locale=en&layout=compact&theme=radical" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavib013&show_icons=true&locale=en&theme=tokyonight" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavib013&theme=tokyonight" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaishnavib013&show_icons=true&locale=en&layout=compact&theme=radical" width="400"/>
 </p>
 
 ---
 
 ### **🏆 GitHub Trophies**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VaishnaviBadjate&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vaishnavib013&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </p>
 
 ---
@@ -68,6 +68,6 @@
 
 ---
 
-🔗 **[Visit My GitHub Profile](https://github.com/VaishnaviBadjate)** 🌟  
+🔗 **[Visit My GitHub Profile](https://github.com/vaishnavib013)** 🌟  
 
 ---
