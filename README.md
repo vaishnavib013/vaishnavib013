@@ -1,7 +1,7 @@
-## Hi there 👋
+# Hi there 👋
 
 
-### **🚀 Vaishnavi Badjate | Data Science & AI Enthusiast**  
+# **🚀 Vaishnavi Badjate | Data Science & AI Enthusiast**  
 🌟 **B.Tech | 3rd Year | Sanjivani College of Engineering, Kopargaon**  
 👩‍💻 **Technical Skills:** Python | NLP | Web Development | C++ | SQL  
 
