@@ -7,8 +7,8 @@
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavib013&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p> 
- <img align="right" width="400" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
-<img align="right" width="400" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
+<img align="right" width="400" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif">
+
 <img align="right" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 ### **📝 About Me**  
